@@ -1,0 +1,11 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    background-color: black; /* Set the background color to black */
+    color: white; /* Set the text color to white, or any other color you prefer */
+  }
+  
+/* Your existing styles for the containers */
+div {
+    box-sizing: border-box;
+}

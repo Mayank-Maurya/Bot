@@ -1,0 +1,6 @@
+.horizontal-list {
+    display: flex;
+    overflow-x: auto; /* Enable horizontal scrolling if the content overflows */
+    gap: 20px; /* Adjust the gap between items */
+    padding: 20px; /* Optional padding */
+}
